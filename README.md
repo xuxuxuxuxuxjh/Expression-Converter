@@ -1,4 +1,4 @@
-## 使用qt写的一个计算器
+# Expression Converter:基于Qt的一个表达式转换器
 
 ### 功能：
 
@@ -8,12 +8,6 @@
   
   3.完成前中后缀表达式之间的转化
   
-### 实现方法：
+### 程序运行环境：
 
-  1.定义一个类Expression，含义是表达式
-  
-  2.定义三个类Prefix_Expression,Infix_Expression,Postfix_Expression继承于Expression，含义分别为前中后缀表达式
-  
-  3.
-  
-  4.逆波兰表示法
+  windows11 , Qt6.3
